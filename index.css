@@ -79,14 +79,12 @@ Project section
   display: none;
 }
 
-#slider {
-  margin: 3em;
-  margin-top: 0;
-  padding-top: 0;
-}
-
 .container img {
   max-width: 100%;
+}
+
+.lead {
+  max-width: 75%;
 }
 
 .thumbnail {
