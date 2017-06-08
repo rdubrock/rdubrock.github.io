@@ -42,21 +42,20 @@ Project section
 **********************************/
 
 .content-container {
-width: 100%;
-margin-top: 100vh;
-margin-right: auto;
-margin-left: auto;
-position: relative;
-background: transparent;
-z-index: 2;
-box-shadow: rgba(35,35,50,0.8) 0px 0px 11px -2px;
+  width: 100%;
+  margin-top: 100vh;
+  margin-right: auto;
+  margin-left: auto;
+  position: relative;
+  background: transparent;
+  z-index: 2;
+  box-shadow: rgba(35,35,50,0.8) 0px 0px 11px -2px;
 }
 
 #project-row {
-background: #fff;
-position: relative;
-
-
+  background: #fff;
+  position: relative;
+  padding-bottom: 2rem;
 }
 
 #project-row h1 {
@@ -74,10 +73,10 @@ position: relative;
 }
 
 #projects {
-margin: 0;
-width: 100%;
-list-style: none;
-display: none;
+  margin: 0;
+  width: 100%;
+  list-style: none;
+  display: none;
 }
 
 #slider {
@@ -87,7 +86,7 @@ display: none;
 }
 
 .container img {
-max-width: 100%;
+  max-width: 100%;
 }
 
 .thumbnail {
